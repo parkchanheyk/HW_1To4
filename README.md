@@ -34,7 +34,7 @@
 
 1. 이 저장소를 클론합니다.
 ```bash
-git clone https://github.com/parkchanheyk/repository-name.git](https://github.com/parkchanheyk/HW_1-To-4.git)
+git clone https://github.com/parkchanheyk/HW_1-To-4.git
 
 ```
 
