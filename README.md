@@ -62,7 +62,7 @@ git clone https://github.com/parkchanheyk/HW_1-To-4.git
 ## 👤 작성자 (Author)
 
 * **이름**: [박찬혁]
-* **소속**: Sparta Club Naebaeumcamp (Unreal Engine 과정)
+* **소속**: 스파르타 클럽 내일배움 캠프 (Unreal Engine 과정)
 * **진행 기간**: ~2026. 03. 25
 
 ---
