@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../HW02/HW02.vcxproj" Id="7961f02b-915e-4065-9a42-4d88b731ddd2" />
+  <Project Path="../HW03/HW03.vcxproj" Id="8a4507d5-e97a-410b-8902-e17e2569e7b8" />
+  <Project Path="../HW04/HW04.vcxproj" Id="098feedb-882b-4d3a-9a37-c3561c82d9d0" />
+  <Project Path="HW01/HW01.vcxproj" Id="7e07e8db-5631-405c-b2ef-4addfbeefc05" />
+</Solution>
